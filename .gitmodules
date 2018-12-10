@@ -1,0 +1,3 @@
+[submodule "Educat"]
+	path = Educat
+	url = git@github.com:viernes/Educat.git
