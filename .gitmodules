@@ -1,3 +1,6 @@
 [submodule "Educat"]
 	path = Educat
 	url = git@github.com:viernes/Educat.git
+[submodule "isep_mods"]
+	path = isep_mods
+	url = git@github.com:pabloosorio/pesi.git
