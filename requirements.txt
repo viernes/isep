@@ -1,0 +1,2 @@
+pyodbc==4.0.25
+git+https://github.com/mkleehammer/pyodbc.git
