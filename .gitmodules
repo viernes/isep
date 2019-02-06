@@ -1,3 +1,8 @@
 [submodule "Educat"]
 	path = Educat
 	url = git@github.com:viernes/Educat.git
+
+[submodule "xmarts/isep_modules"]
+	path = xmarts/isep_modules
+	url = git@github.com:xmarts/isep_modules.git
+	branch = master
